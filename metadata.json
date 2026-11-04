@@ -1,0 +1,6 @@
+{
+  "name": "PollMaster",
+  "description": "An intuitive online polling application for creating surveys and tracking real-time results.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
